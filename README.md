@@ -6,7 +6,7 @@ Using Jupyter notebook to retrieve, manipulate, and display the atmospheric prof
 
 These parameters are the mass (g) of cloud liquid water droplets or cloud ice particles per kilogram of the total mass of moist air.
 
-End result are plots with daily and spatially averaged vertical profile over desired location (SDM), during specific melt events specified by user input. 
+End result is plots with daily and spatially averaged vertical profile over desired location (SDM), during specific melt events specified by user input. 
 
 ## Data
 
