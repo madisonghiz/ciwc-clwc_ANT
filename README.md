@@ -9,6 +9,8 @@ These parameters are the mass (g) of cloud liquid water droplets or cloud ice pa
 
 Atmospheric reanalysis data from ECMWF's ERA5 dataset. Download from Copernicus Climate Change Service (C3S) Climate Data Store.
 
+Example file uploaded is from Siple Dome January 2016. Region bounds: lat(-81, -82.5), lon(-144.914,-155).
+
 Copernicus Climate Change Service (C3S) (2017): ERA5: Fifth generation of ECMWF atmospheric reanalyses of the global climate . Copernicus Climate Change Service Climate Data Store (CDS). https://cds.climate.copernicus.eu/cdsapp#!/home
 
 For thesis.
