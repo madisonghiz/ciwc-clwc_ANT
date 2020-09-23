@@ -1,7 +1,7 @@
 # ciwc-clwc_ANT
 
 ## About
-Retrieving, manipulating, and displaying the atmospheric profile (surface - ~10km, 1000 hPa - ~650 hPa) of cloud ice water content (ciwc) and cloud liquid water content (clwc) over West Antarctica. 
+Using Jupyter notebook to retrieve, manipulate, and display the atmospheric profile (surface - ~10km, 1000 hPa - ~650 hPa) of cloud ice water content (ciwc) and cloud liquid water content (clwc) over West Antarctica. 
 
 ## Data
 
